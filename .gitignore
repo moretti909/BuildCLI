@@ -4,3 +4,4 @@ build/
 node_modules/
 .venv/
 *.pyc
+.pytest_cache/
